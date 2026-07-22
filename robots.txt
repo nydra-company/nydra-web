@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nydra-company.github.io/sitemap.xml
