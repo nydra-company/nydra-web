@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nydra-company.github.io/sitemap.xml
+Sitemap: https://nydra.cc/sitemap.xml
